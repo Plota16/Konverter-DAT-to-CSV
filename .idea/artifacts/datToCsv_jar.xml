@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="datToCsv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/datToCsv_jar</output-path>
+    <root id="archive" name="datToCsv.jar">
+      <element id="module-output" name="datToCsv" />
+    </root>
+  </artifact>
+</component>
